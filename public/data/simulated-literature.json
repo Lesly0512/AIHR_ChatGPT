@@ -1,0 +1,54 @@
+{
+  "notice": "教學模擬資料，以下文獻全部為虛構內容，請勿引用。",
+  "purpose": "練習檢查題名、期刊、作者、年份、方法與識別碼，不代表真實證據。",
+  "records": [
+    {
+      "id": "SIM-01",
+      "citation": "Lin, Y. & Huang, T. (2024). Hybrid work autonomy and turnover intentions: A two-wave study.",
+      "method": "two-wave survey",
+      "status": "看似合理，仍須回資料庫核對"
+    },
+    {
+      "id": "SIM-02",
+      "citation": "Wang, R. (2023). Boundary control in distributed teams: A diary investigation.",
+      "method": "10-day diary study",
+      "status": "看似合理，仍須回資料庫核對"
+    },
+    {
+      "id": "SIM-03",
+      "citation": "Chen, S. & Kao, M. (2025). Manager support as a moderator of remote-work isolation.",
+      "method": "cross-sectional survey",
+      "status": "看似合理，仍須回資料庫核對"
+    },
+    {
+      "id": "SIM-04",
+      "citation": "Patel, N. et al. (2022). Flexible work arrangements and retention: A meta-analytic review.",
+      "method": "meta-analysis",
+      "status": "看似合理，仍須回資料庫核對"
+    },
+    {
+      "id": "SIM-05",
+      "citation": "Liu, J. (2026). Digital proximity and organizational belonging in knowledge work.",
+      "method": "mixed methods",
+      "status": "看似合理，仍須回資料庫核對"
+    },
+    {
+      "id": "SIM-06",
+      "citation": "Garcia, P. & Ito, K. (2021). Coordination costs in hybrid teams.",
+      "method": "field experiment",
+      "status": "方法標示需特別核對"
+    },
+    {
+      "id": "SIM-07",
+      "citation": "Perfect, A. (2025). Remote work always eliminates turnover.",
+      "method": "未提供",
+      "status": "刻意不可靠：絕對化結論、缺少期刊與方法"
+    },
+    {
+      "id": "SIM-08",
+      "citation": "Future HR Oracle Consortium. (2027). Final proof of universal hybrid productivity.",
+      "method": "未提供",
+      "status": "刻意不可靠：未來年份、來源與主張異常"
+    }
+  ]
+}
